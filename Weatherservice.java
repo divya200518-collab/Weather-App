@@ -6,7 +6,7 @@ import java.net.URL;
 public class WeatherService {
 
     // Replace this with your own API key later
-    private static final String API_KEY = "YOUR_API_KEY";
+    private static final String API_KEY = "751c060c371a18eed1cb9fef5c33dcd4";
 
     public void getWeather(String city) {
 
